@@ -1,0 +1,3 @@
+Two threads incrementing in parallel
+a static attribute and a non-static one
+of the two objects instantiated from the same class.
